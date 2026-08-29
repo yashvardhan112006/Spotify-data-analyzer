@@ -182,4 +182,4 @@ The normalization layer supports both standard and extended Spotify schemas:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it.
+This project is not currently licensed. Feel free to use, modify, and distribute it.
